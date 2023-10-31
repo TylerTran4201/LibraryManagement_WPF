@@ -1,0 +1,306 @@
+﻿<UserControl x:Class="WPF_LibraryManagement.ReaderManagement"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Width="940" Height="590">
+    <UserControl.Resources>
+        <Style x:Key="txtInfor" TargetType="{x:Type TextBox}">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="{DynamicResource BorderColor}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Width" Value="220"/>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="Margin" Value=" 0 0 10 0"/>
+            <Style.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="ListItemTextStyle">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+        </Style>
+
+        <Style x:Key="btnBorderCard" TargetType="{x:Type Button}">
+            <Style.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+        <DataTemplate x:Key="ListReaderCard">
+            <Button Width="200" Height="100" Margin="2" 
+                    Padding="10,5" Style="{StaticResource btnBorderCard}"
+                    Cursor="Hand"
+                    Name="btnCard"
+                    Click="BtnCard_Click">
+                <Button.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="{Binding Status,Converter={StaticResource ReaderStatusConverter}}" Offset="0"/>
+                        <GradientStop Color="#d9b5ff" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+                <Button.Content>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Text="{Binding Name.FullName}" 
+                                   Grid.Row="0"
+                                   Style="{StaticResource ListItemTextStyle}"
+                                   FontSize="15"
+                                   HorizontalAlignment="left"/>
+                        <TextBlock Text="{Binding Id}"
+                                   Grid.Row="1"
+                                       Style="{StaticResource ListItemTextStyle}"
+                                       FontSize="12"
+                                       HorizontalAlignment="Right"
+                                       VerticalAlignment="Center"
+                                       Margin="0 0 0 0"/>
+                        <Grid Grid.Row="2">
+                            <TextBlock Text="CMND:" 
+                                   Style="{StaticResource ListItemTextStyle}"
+                                   FontSize="12"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Left"/>
+                            <TextBlock Text="{Binding CMND}" 
+                                   Style="{StaticResource ListItemTextStyle}"
+                                   FontSize="12"
+                                   Margin="100 0 0 0"
+                                   HorizontalAlignment="Left"/>
+                        </Grid>
+                    </Grid>
+                </Button.Content>
+              
+            </Button>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <Border CornerRadius="5" Background="{DynamicResource SecundaryBackgroundColor}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Content="Reader Management" Style="{DynamicResource TitleLabel}"/>
+            <Grid Grid.Row="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid>
+                        <Label Style="{StaticResource TitleLabel}"
+                               Content="Search by"
+                               HorizontalAlignment="Left"
+                               Margin="30 0 0 0"
+                               FontSize="15"
+                               Foreground="{DynamicResource BorderColor}"/>
+                        <ComboBox Margin="115 0 0 0" Width="70" Height="25"
+                                  HorizontalAlignment="Left"
+                                  Cursor="Hand"
+                                  Name="cbTypeSearch"
+                                  ItemContainerStyle="{DynamicResource ComboBoxItemStyle1}">
+                            <ComboBoxItem>Id</ComboBoxItem>
+                            <ComboBoxItem>Name</ComboBoxItem>
+                        </ComboBox>
+                        <TextBox VerticalAlignment="Center" 
+                                 HorizontalAlignment="Left"
+                                 Margin="190 0 0 0"
+                                 Style="{DynamicResource SearchBox}"
+                                 Name="txtSearch"
+                                 TextChanged="TxtSearch_TextChanged"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="350"/>
+                        </Grid.ColumnDefinitions>
+                        <GroupBox Grid.Column="0" BorderBrush="{DynamicResource BorderColor}" BorderThickness="2" Margin="5">
+                            <GroupBox.Header>
+                                <Border CornerRadius="2" BorderBrush="{DynamicResource BorderColor}" 
+                                        BorderThickness="2" Width="auto" Height="21">
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" 
+                                               Text="Reader List" Padding="5"/>
+                                </Border>
+                            </GroupBox.Header>
+                            <ListBox x:Name="lsbReaderCards"
+                                     Margin="1"
+                                     BorderBrush="Transparent"
+                                     Background="Transparent"
+                                     ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                     ItemTemplate="{StaticResource ListReaderCard}">
+                                <ListBox.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <WrapPanel/>
+                                    </ItemsPanelTemplate>
+                                </ListBox.ItemsPanel>
+                            </ListBox>
+                        </GroupBox>
+                        <Grid Grid.Column="1">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition Height="100"/>
+                            </Grid.RowDefinitions>
+                            <GroupBox Grid.Row="0" BorderBrush="{DynamicResource BorderColor}" BorderThickness="2" Margin="5">
+                                <GroupBox.Header>
+                                    <Border CornerRadius="2" BorderBrush="{DynamicResource BorderColor}" 
+                                        BorderThickness="2" Width="auto" Height="21">
+                                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" 
+                                               Text="Reader details" Padding="5"/>
+                                    </Border>
+                                </GroupBox.Header>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid>
+                                        <Label Style="{DynamicResource TitleLabel}"
+                                               HorizontalAlignment="Left"
+                                               Margin="10 0 0 0"
+                                               Content="Id:"/>
+                                        <TextBox Style="{StaticResource txtInfor}"
+                                                 Name="txtId"
+                                                 Foreground="{DynamicResource BorderColor}"
+                                                 IsHitTestVisible="False"/>
+                                    </Grid>
+                                    <Grid Grid.Row="1">
+                                        <Label Style="{DynamicResource TitleLabel}"
+                                               HorizontalAlignment="Left"
+                                               Margin="10 0 0 0"
+                                               Content="Full Name:"/>
+                                        <TextBox Style="{StaticResource txtInfor}"
+                                                 Name="txtName"
+                                                 Foreground="{DynamicResource BorderColor}"
+                                                 IsHitTestVisible="False"/>
+                                    </Grid>
+                                    <Grid Grid.Row="2">
+                                        <Label Style="{DynamicResource TitleLabel}"
+                                               HorizontalAlignment="Left"
+                                               Margin="10 0 0 0"
+                                               Content="CMND:"/>
+                                        <TextBox Style="{StaticResource txtInfor}"
+                                                 Name="txtCMND"/>
+                                    </Grid>
+                                    <Grid Grid.Row="3">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="220"/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+                                        <Grid Grid.Column="0">
+                                            <Label Style="{DynamicResource TitleLabel}"
+                                               HorizontalAlignment="Left"
+                                               Margin="0 0 0 0"
+                                               Content="Date of birth:"
+                                               FontSize="12"/>
+                                            <TextBox Style="{StaticResource txtInfor}"
+                                                     Width="130"
+                                                     Name="txtDob"
+                                                     HorizontalAlignment="Left"
+                                                     Margin="82 0 0 0"/>
+                                        </Grid>
+                                        <Grid Grid.Column="1">
+                                            <Label Style="{DynamicResource TitleLabel}"
+                                               HorizontalAlignment="Left"
+                                               Margin="0 0 0 0"
+                                               Content="Sex:"
+                                               FontSize="12"/>
+                                            <ComboBox ItemContainerStyle="{DynamicResource ComboBoxItemStyle1}"
+                                                      Name="cbSex"
+                                                      Width="70"
+                                                      Height="25"
+                                                      Margin="25 0 0 0">
+                                                <ComboBoxItem>Male</ComboBoxItem>
+                                                <ComboBoxItem>Female</ComboBoxItem>
+                                            </ComboBox>
+                                        </Grid>
+                                    </Grid>
+                                    <Grid Grid.Row="4">
+                                        <Label Style="{DynamicResource TitleLabel}"
+                                               HorizontalAlignment="Left"
+                                               Margin="10 0 0 0"
+                                               Content="Email:"/>
+                                        <TextBox Style="{StaticResource txtInfor}"
+                                                  Name="txtEmail"/>
+                                    </Grid>
+                                    <Grid Grid.Row="5">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+                                        <Button Style="{DynamicResource gridEditButton}" 
+                                                Margin="5 0 0 0"
+                                                Width="100"
+                                                Height="30"
+                                                Name="btnEdit" Click="BtnEdit_Click">
+                                            <Path Data="{DynamicResource update}"
+                                                  Width="16"
+                                                  Height="20"
+                                                  Fill="White"
+                                                  Stretch="Uniform"
+                                                  VerticalAlignment="Center"/>
+                                        </Button>
+                                        <Grid Grid.Column="1">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition/>
+                                                <ColumnDefinition/>
+                                            </Grid.ColumnDefinitions>
+                                            <Button Style="{DynamicResource gridRemoveButton}" 
+                                                Grid.Column="0"
+                                                Margin="0 0 0 0"
+                                                Width="50"
+                                                Height="30"
+                                                Name="btnLock" Click="BtnLock_Click">
+                                                <Path Data="{DynamicResource lock}"
+                                                  Width="16"
+                                                  Height="20"
+                                                  Fill="White"
+                                                  Stretch="Uniform"
+                                                  VerticalAlignment="Center"/>
+                                            </Button>
+                                            <Button Style="{DynamicResource gridInforButton}" 
+                                                Grid.Column="1"
+                                                Margin="0 0 0 0"
+                                                Width="50"
+                                                Height="30"
+                                                Name="btnUnlock" Click="BtnUnlock_Click">
+                                                <Path Data="{DynamicResource unlock}"
+                                                  Width="16"
+                                                  Height="20"
+                                                  Fill="White"
+                                                  Stretch="Uniform"
+                                                  VerticalAlignment="Center"/>
+                                            </Button>
+                                        </Grid>
+
+                                    </Grid>
+                                </Grid>
+                            </GroupBox>
+                            <Button Grid.Row="1" HorizontalAlignment="Center" Name="AddNewBook" Style="{StaticResource SubmitButton}" Click="AddNewBook_Click">
+                                <StackPanel>
+                                    <!--<Image Source="/Assets/Icons/Icons.xaml/add"/>-->
+                                    <Label Content="Add New Book" Foreground="White"/>
+                                </StackPanel>
+                            </Button>
+
+                        </Grid>
+                    </Grid>
+                </Grid>
+
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

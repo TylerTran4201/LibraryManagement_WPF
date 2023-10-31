@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CallCards>
+  <CallCard Id="RP01" IdReader="R02" BorrowDate="06/02/2022" ReturnDate="06/07/2022" Quantity="0" Status="0">
+    <Book Id="B103" Name="Thất Lạc Cõi Người" Status="0" />
+    <Book Id="B102" Name="Thương Thầm" Status="0" />
+  </CallCard>
+  <CallCard Id="RP02" IdReader="R04" BorrowDate="06/02/2022" ReturnDate="06/07/2022" Quantity="2" Status="1">
+    <Book Id="B102" Name="Thương Thầm" Status="1" />
+    <Book Id="B103" Name="Thất Lạc Cõi Người" Status="1" />
+  </CallCard>
+  <CallCard Id="RP04" IdReader="R02" BorrowDate="06/02/2022" ReturnDate="06/07/2022" Quantity="0" Status="0">
+    <Book Id="B103" Name="Thất Lạc Cõi Người" Status="0" />
+  </CallCard>
+  <CallCard Id="RP05" IdReader="R02" BorrowDate="06/09/2022" ReturnDate="06/14/2022" Quantity="1" Status="1">
+    <Book Id="B103" Name="Thất Lạc Cõi Người" Status="0" />
+    <Book Id="B102" Name="Thương Thầm" Status="0" />
+    <Book Id="B104" Name="Trại Hoa Vàng" Status="1" />
+  </CallCard>
+  <CallCard Id="RP06" IdReader="R02" BorrowDate="06/08/2022" ReturnDate="06/13/2022" Quantity="2" Status="1">
+    <Book Id="B102" Name="Thương Thầm" Status="0" />
+  </CallCard>
+  <CallCard Id="RP07" IdReader="R02" BorrowDate="06/08/2022" ReturnDate="06/13/2022" Quantity="1" Status="1">
+    <Book Id="B103" Name="Thất Lạc Cõi Người" Status="0" />
+    <Book Id="B105" Name="Thằng Quỷ Nhỏ" Status="0" />
+  </CallCard>
+  <CallCard Id="RP08" IdReader="R02" BorrowDate="06/09/2022" ReturnDate="06/14/2022" Quantity="3" Status="1">
+    <Book Id="B102" Name="Thương Thầm" Status="1" />
+    <Book Id="B103" Name="Thất Lạc Cõi Người" Status="1" />
+  </CallCard>
+</CallCards>

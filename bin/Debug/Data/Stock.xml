@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book Id="B102" Quantity="17" />
+  <Book Id="B103" Quantity="6" />
+  <Book Id="B104" Quantity="15" />
+  <Book Id="B105" Quantity="1" />
+  <Book Id="B201" Quantity="20" />
+  <Book Id="B202" Quantity="20" />
+  <Book Id="B203" Quantity="20" />
+  <Book Id="B204" Quantity="20" />
+  <Book Id="B301" Quantity="1" />
+  <Book Id="B302" Quantity="1" />
+  <Book Id="B303" Quantity="18" />
+  <Book Id="B304" Quantity="17" />
+  <Book Id="B401" Quantity="17" />
+  <Book Id="B402" Quantity="20" />
+  <Book Id="B403" Quantity="20" />
+</Books>

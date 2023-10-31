@@ -1,0 +1,274 @@
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe.config
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.cache
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.lref
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.g.resources
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.Properties.Resources.resources
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.GenerateResource.cache
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\MainStyle.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCBorrowBooks.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCReaderManagement.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCReturnBooks.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCBorrowBooks.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCReaderManagement.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCReturnBooks.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\PurpleTheme.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\OrangeTheme.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csprojAssemblyReference.cache
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_Content.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmBookEdit.g.cs
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmBookEdit.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmAuthorEdit.baml
+C:\Users\tyler tran\Desktop\WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmAuthorEdit.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe.config
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.exe
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.pdb
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.pdb
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmAuthorEdit.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmAuthorEdit.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmBookEdit.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCBorrowBooks.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\MainWindow.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReaderManagement.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReturnBooks.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\App.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_Content.g.cs
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.cache
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.lref
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\App.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmBookEdit.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCBorrowBooks.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\MainWindow.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReaderManagement.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReturnBooks.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Styles\MainStyle.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Themes\PurpleTheme.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Themes\OrangeTheme.baml
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.g.resources
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.Properties.Resources.resources
+C:\Users\darktran\Desktop\QuanLy\3.Project\4.LTWF\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.GenerateResource.Cache
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe.config
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csprojAssemblyReference.cache
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmAuthorEdit.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmAuthorEdit.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmBookEdit.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCBorrowBooks.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\MainWindow.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReaderManagement.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReturnBooks.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\App.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_Content.g.cs
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.cache
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.lref
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\App.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\frmBookEdit.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCBorrowBooks.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\MainWindow.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReaderManagement.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCReturnBooks.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Styles\MainStyle.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Themes\PurpleTheme.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Themes\OrangeTheme.baml
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.g.resources
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.Properties.Resources.resources
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.GenerateResource.cache
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Downloads\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe.config
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csprojAssemblyReference.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\MainWindow.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\App.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_Content.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.lref
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\App.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\UCBookManagement.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\MainWindow.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Themes\PurpleTheme.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\UCStatistical.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Themes\OrangeTheme.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.g.resources
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.Properties.Resources.resources
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.GenerateResource.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Edit\frmAuthorEdit.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Edit\frmAuthorEdit.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Edit\frmBookEdit.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Infor\frmBookInfor.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Edit\frmBookEdit.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Infor\frmBookInfor.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Add\frmBookAdd.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Add\frmBookAdd.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Add\frmCategoryEdit.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BookMangement\Add\frmCategoryEdit.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\UCReaderManagement.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\UCReaderManagement.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Styles\MainStyle.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\Edit\frmReaderEdit.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\Edit\frmReaderEdit.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\Infor\frmReaderInfor.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\Infor\frmReaderInfor.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\Add\frmReaderAdd.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\Add\frmReaderAdd.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BorrowBooks\UCBorrowBooks.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\BorrowBooks\UCBorrowBooks.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\LockReason\frmReaderLockReason.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\LockReason\frmReaderLockReason.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook\UCReturnBooks.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook\UCReturnBooks.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\Statistical\Card.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement+\WPF_LibraryManagement\obj\Debug\Pages\Statistical\Card.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csprojAssemblyReference.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_Content.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.lref
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe.config
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.pdb
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\MainStyle.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\PurpleTheme.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\OrangeTheme.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.g.resources
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.Properties.Resources.resources
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.GenerateResource.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\BookManagement.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\BookManagement.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeDatagrid.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\frmBookInfor.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\frmBookInfor.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\ReaderManagement.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\ReaderManagement.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CusomizeComboBox.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeButton.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeTextbox.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderLockReason.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderLockReason.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderAdd.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderAdd.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BorrowBook.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BorrowBook.baml
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook.g.cs
+C:\Users\tyler tran\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe.config
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.exe
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.pdb
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\BookManagement.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderAdd.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderLockReason.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\ReaderManagement.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\BookManagement.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\frmBookInfor.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BorrowBook.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderAdd.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderLockReason.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\ReaderManagement.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_Content.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.cache
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.lref
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.pdb
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\frmBookInfor.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BorrowBook.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CusomizeComboBox.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeButton.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeDatagrid.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeTextbox.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\MainStyle.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\PurpleTheme.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\OrangeTheme.baml
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.g.resources
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.Properties.Resources.resources
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.GenerateResource.Cache
+C:\Users\darktran\Desktop\QuanLy\2.Project\4.LTWF\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe.config
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.exe
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\bin\Debug\WPF_LibraryManagement.pdb
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\BookManagement.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderAdd.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderLockReason.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\ReaderManagement.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\BookManagement.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\frmBookInfor.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BorrowBook.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderAdd.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\frmReaderLockReason.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReaderManagement\ReaderManagement.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_Content.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.cache
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement_MarkupCompile.lref
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\App.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BookManagement\frmBookInfor.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\BorrowBook.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Pages\ReturnBook.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CusomizeComboBox.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeButton.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeDatagrid.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\CustomizeTextbox.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Styles\MainStyle.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\PurpleTheme.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\Themes\OrangeTheme.baml
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.g.resources
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.exe
+C:\Users\Admin\Desktop\Tri_WPF_LibraryManagement\WPF_LibraryManagement\obj\Debug\WPF_LibraryManagement.pdb

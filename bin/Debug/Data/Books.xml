@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Category Id="C01" Name="Tiểu Thuyết">
+    <Book Id="B101" Name="Niềm Vui Tuổi Thanh Xuân" Author="Au01,Au04" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="70000" />
+    <Book Id="B102" Name="Thương Thầm" Author="Au01,Au04" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B103" Name="Thất Lạc Cõi Người" Author="Au03,Au02" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B104" Name="Trại Hoa Vàng" Author="Au01" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B105" Name="Thằng Quỷ Nhỏ" Author="Au03" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+  </Category>
+  <Category Id="C02" Name="Tự Truyện">
+    <Book Id="B201" Name="Làm Chủ Cuộc Chơi" Author="Au03,Au02" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B202" Name="Người Trong Muôn Người" Author="Au03,Au02" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B203" Name="Miền Đất Hứa" Author="Au03,Au02" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B204" Name="Tự Truyện Của Một YUGI" Author="Au03,Au02" PushlishName="Kim Đồng" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+  </Category>
+  <Category Id="C03" Name="Giáo Khoa">
+    <Book Id="B301" Name="Toán 12" Author="Au05" PushlishName="Bộ Giáo Dục" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B302" Name="Văn 12" Author="Au04" PushlishName="Bộ Giáo Dục" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B303" Name="Sinh 12" Author="Au05" PushlishName="Bộ Giáo Dục" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B304" Name="Tiếng Anh 12" Author="Au05" PushlishName="Bộ Giáo Dục" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B305" Name="Công Nghệ 12" Author="Au01" PushlishName="Kim Đồng" ModifiedAt="05/20/2022" CreatedAt="05/20/2022" Status="1" Price="40000" />
+  </Category>
+  <Category Id="C04" Name="Thiếu Nhi">
+    <Book Id="B401" Name="Những Tấm Lòng Cao Cả" Author="Au01" PushlishName="Bộ Giáo Dục" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B402" Name="Dế Mèn Phiêu Lưu Ký" Author="Au02" PushlishName="Bộ Giáo Dục" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B403" Name="Hoàng Tử Bé" Author="Au03" PushlishName="Bộ Giáo Dục" ModifiedAt="12/10/2021" CreatedAt="06/05/21" Status="1" Price="40000" />
+    <Book Id="B404" Name="Cô Bé Quàng Khăn Tím" Author="Au02" PushlishName="sách Thiếu Nhi" ModifiedAt="05/20/2022" CreatedAt="05/20/2022" Status="1" Price="400000" />
+  </Category>
+</Library>

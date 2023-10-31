@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Readers>
+  <Reader Id="R01" FirstName="Trần" LastName="Đông Trí" CMND="000000001" Dob="10/24/2003" Sex="male" Email="trandongtri.work@gmail.com" Status="0" />
+  <Reader Id="R02" FirstName="Tran" LastName="Dark" CMND="0001412351" Dob="10/16/1984" Sex="male" Email="darktran_it84k@gmail.com" Status="1" />
+  <Reader Id="R03" FirstName="Nguyễn" LastName="Thùy Trang" CMND="000000003" Dob="10/12/2003" Sex="female" Email="hoangtrang.work@gmail.com" Status="1" />
+  <Reader Id="R04" FirstName="Đào" LastName="Duy Hải" CMND="000000004" Dob="07/14/2003" Sex="male" Email="duyhai.work@gmail.com" Status="1" />
+  <Reader Id="R05" FirstName="Trương" LastName="Công Mỹ Hạnh" CMND="000000005" Dob="10/14/2003" Sex="female" Email="myhanh.work@gmail.com" Status="1" />
+  <Reader Id="R06" FirstName="Nguyễn" LastName="Thị Ngọc Bích" CMND="000000006" Dob="08/07/2003" Sex="female" Email="ngocbich.work@gmail.com" Status="1" />
+  <Reader Id="R07" FirstName="Tường" LastName="Công Thái" CMND="123" Dob="03/30/2022" Sex="male" Email="CongThai@gmail.com" Status="1" />
+  <Reader Id="R08" FirstName="Nguyễn" LastName="Thành Tài" CMND="01115140045" Dob="06/08/2022" Sex="male" Email="ThanhTai@gmail.com" Status="1" />
+</Readers>
